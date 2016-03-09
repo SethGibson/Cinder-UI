@@ -8,9 +8,7 @@
 #include "Controls.h"
 
 #include "cinder/app/Window.h"
-#include "cinder/gl/Vao.h"
-#include "cinder/gl/Vbo.h"
-#include "cinder/gl/GlslProg.h"
+#include "cinder/gl/gl.h"
 
 namespace reza { namespace ui {
     

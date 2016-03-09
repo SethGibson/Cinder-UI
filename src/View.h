@@ -1,5 +1,5 @@
 #pragma once
-
+#include "cinder/app/App.h"
 #include "cinder/Rect.h"
 #include "cinder/Color.h"
 #include "cinder/Json.h"

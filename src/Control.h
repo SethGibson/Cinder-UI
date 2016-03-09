@@ -1,8 +1,8 @@
 #pragma once
 
+#include "cinder/app/App.h"
 #include "Triggers.h"
 #include "States.h"
-#include "cinder/app/Event.h"
 #include "View.h"
 
 namespace reza { namespace ui {

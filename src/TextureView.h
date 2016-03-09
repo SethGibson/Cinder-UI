@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ControlWithLabel.h"
-#include "cinder/gl/Texture.h"
+#include "cinder/gl/gl.h"
 
 namespace reza { namespace ui {
     

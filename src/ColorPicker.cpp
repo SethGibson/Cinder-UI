@@ -1,3 +1,4 @@
+#include "cinder/gl/gl.h"
 #include "ColorPicker.h"
 #include "Globals.h"
 #include "Helpers.h"

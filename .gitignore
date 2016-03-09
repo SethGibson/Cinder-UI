@@ -47,3 +47,6 @@ DerivedData
 .idea/
 # Pods - for those of you who use CocoaPods
 Pods
+.vs
+x64
+/samples/basic/vc2013/*.sdf

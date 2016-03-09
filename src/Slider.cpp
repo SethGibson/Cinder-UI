@@ -68,7 +68,7 @@ template<typename T>
 JsonTree SliderT<T>::save()
 {
     JsonTree tree = View::save();
-    tree.addChild( JsonTree( "VALUE",  isnan( getValue() ) ? mMin : getValue() ) );
+    tree.addChild( JsonTree( "VALUE",  isnan( static_cast<float>(getValue()) ) ? mMin : getValue() ) );
     return tree;
 }
 

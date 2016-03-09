@@ -1,5 +1,5 @@
 #pragma once
-
+#include "cinder/Quaternion.h"
 #include "ControlWithLabel.h"
 
 namespace reza { namespace ui {

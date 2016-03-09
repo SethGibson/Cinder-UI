@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="blocks">
+      <UniqueIdentifier>{e08587dc-f9d4-4a84-928e-0d70fc59dae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="blocks\Cinder-UI">
+      <UniqueIdentifier>{35382262-4ac3-4c0d-8206-5e662170ed64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\basicApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\basicApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClInclude Include="..\include\Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\src\BSplineEditor.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Button.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Canvas.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\ColorPicker.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Colors.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Control.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\ControlWithLabel.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Dialer.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Envelope.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Fps.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Globals.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Graph.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Label.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\MultiSlider.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Plotter.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\QuaternionOrderer.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Radio.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Range.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Responder.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Slider.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Spacer.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Spectrum.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\SuperCanvas.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TextInput.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TextureView.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Toggle.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\View.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\Waveform.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\WindowCanvas.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XYPad.cpp">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Alignments.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\BSplineEditor.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Button.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Canvas.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\ColorPicker.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Colors.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Control.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Controls.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\ControlWithLabel.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Dialer.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Directions.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Envelope.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\FontSizes.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Fps.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Globals.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Graph.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Helpers.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Label.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\MultiSlider.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Padding.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Plotter.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\QuaternionOrderer.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Radio.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Range.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\RenderData.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Responder.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Slider.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Spacer.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Spectrum.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\States.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\SuperCanvas.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TextInput.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TextureView.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Toggle.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Triggers.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\UI.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\View.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Waveform.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\WindowCanvas.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XYPad.h">
+      <Filter>blocks\Cinder-UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
